@@ -1,6 +1,6 @@
 import sqlite3
 
-from test2.create_db import create_and_populate_db
+from test_2.create_db import create_and_populate_db
 
 
 def parse_db():
